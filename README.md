@@ -5,7 +5,7 @@
 ## Responsive visualizer built using React for popular algorithms
 
 <a href="https://pritamkumarnitjsr.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
-[See it in action](https://pritamkumarnitjsr.github.io/sorting-visualizer/dist/)
+[See it in action](https://pritam-sorting-visualizer.netlify.app/)
 
 ---
 
@@ -41,7 +41,7 @@ Features
 
 ### Run in your local
 
-- ```git clone https://github.com/pritamkumarnitjsr/sorting-visualizer.git```
+- ```Dowanload from https://github.com/pritamkumarnitjsr/sort-visualizer```
 - ```npm install``` (after navigating inside the directory)
 - ```npm run dev```
 
